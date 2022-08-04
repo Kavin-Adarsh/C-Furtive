@@ -1,4 +1,4 @@
-// A c program crashes your computer
+// C program to crash your computer
 
 #include<stdio.h>
 #include<stdlib.h>
