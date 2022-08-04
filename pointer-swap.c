@@ -1,4 +1,4 @@
-//swaping using pointer
+//swaping values using pointer
 
 #include<stdio.h>
 
